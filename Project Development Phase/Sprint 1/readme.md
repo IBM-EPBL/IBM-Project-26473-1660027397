@@ -1,3 +1,3 @@
-Digital Naturalist h5 file 
+Trained Model -> https://drive.google.com/drive/folders/1cEO71gOpLOlQ2FLEuaoGRN5_ljMy6LOB?usp=sharing
 
-https://drive.google.com/file/d/1mLwH-IW2a9hvCKrg7ESq9tw5N5PAijb8/view
+
